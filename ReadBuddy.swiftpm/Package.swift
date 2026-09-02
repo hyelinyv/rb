@@ -15,8 +15,8 @@ let package = Package(
             bundleIdentifier: "com.readbuddy.offline",
             displayVersion: "0.1.0",
             bundleVersion: "1",
-            appIcon: .placeholder(icon: .book),
-            accentColor: .presetColor(.black),
+            appIcon: .placeholder(icon: .camera),
+            accentColor: .presetColor(.orange),
             supportedDeviceFamilies: [
                 .pad
             ],
